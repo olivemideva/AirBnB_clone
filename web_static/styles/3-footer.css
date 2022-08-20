@@ -1,0 +1,12 @@
+footer {
+	background-color: white;
+	height: 60px;
+	width: 100%;
+	border-top: 1px #cccccc solid;
+	line-height: 60px;
+	white-space: nowrap;
+	text-align: center;
+	position: fixed;
+	bottom: 0;
+	background: white url("../images/logo.png");
+}
